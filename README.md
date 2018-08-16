@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world
 Hello World!
 The quick brown fox jumps over the lazy dog 
 Hi everyone, my name is Phong and this is my first time using GitHub

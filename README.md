@@ -7,6 +7,6 @@ I'm mostly interested in software and game development.
 You can find my first work at Scratch ( a code learning platform for kid, yeah I know, we all have to start somewhere).
 Computer is a wonderful invention and the things that it could do is unbelievable.
 That's why I have chosen Computer Programming to be my main specialty.
-I hope to learn from every one, to be the best version of myself, and you could learn from me too :)
+I hope to learn from every one and you could learn from me too :)
 Thanks!
 And have a good day!
